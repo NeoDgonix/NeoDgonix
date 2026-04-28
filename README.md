@@ -53,3 +53,9 @@ I am in a constant war with myself, not driven by emotion but by discipline and 
 - 🎯 Goal: Become a **systems engineer**
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NeoDgonix/NeoDgonix/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NeoDgonix/NeoDgonix/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NeoDgonix/NeoDgonix/output/pacman-contribution-graph.svg">
+</picture>
