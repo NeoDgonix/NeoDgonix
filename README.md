@@ -2,13 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=NEO%20DGONIX&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50&stroke=56b5e6&strokeWidth=2&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-<img align="right" height="150" src="https://media1.giphy.com/media/OkoScrMcY324r1j1HZ/source.gif"  />
-
-<div align="left">
-I am in a constant war with myself, not driven by emotion but by discipline and control. Every day I push through uncertainty with intent, refining my mindset, eliminating weakness, and sharpening focus into something precise and unshakable. I don’t rely on motivation; I rely on structure, repetition, and pressure to force growth. Failure is not something I fear but something I study, because it shows me exactly where I need to improve. Difficulty is not an obstacle but a necessary environment for transformation. I don’t seek comfort or distraction. I remove them. Everything I do is aimed at becoming a more controlled, capable, and inevitable version of myself.
-</div>
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -22,6 +16,12 @@ I am in a constant war with myself, not driven by emotion but by discipline and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+<img align="right" height="150" src="https://media1.giphy.com/media/OkoScrMcY324r1j1HZ/source.gif"  />
+
+<div align="left">
+I am in a constant war with myself, not driven by emotion but by discipline and control. Every day I push through uncertainty with intent, refining my mindset, eliminating weakness, and sharpening focus into something precise and unshakable. I don’t rely on motivation; I rely on structure, repetition, and pressure to force growth. Failure is not something I fear but something I study, because it shows me exactly where I need to improve. Difficulty is not an obstacle but a necessary environment for transformation. I don’t seek comfort or distraction. I remove them. Everything I do is aimed at becoming a more controlled, capable, and inevitable version of myself.
 </div>
 
 ###
