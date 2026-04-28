@@ -41,7 +41,7 @@ I am in a constant war with myself, not driven by emotion but by discipline and 
   <img style="width: 200px; height:200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
 </div>
 
-<img style="width: 200px; height:200px" align="right" src="https://usagif.com/wp-content/uploads/2022/hqgif/ghost-50-pixel-ghost-transparent-background.gif"/>
+<img style="width: 200px; height:200px" align="right" src="https://giffiles.alphacoders.com/424/4244.gif"/>
 
 - 🌱 I’m currently learning: **HTML, CSS, and JavaScript**
 - ⚙️ Passionate about **web development** and creating system logic
