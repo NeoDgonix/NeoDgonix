@@ -35,10 +35,10 @@ I am in a constant war with myself, not driven by emotion but by discipline and 
 </p>
 
 <div style="display: flex; flex-direction: column; gap: 16px; align-items: center;">
-  <img style="width: 200px; height:200px" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
-  <img style="width: 200px; height:200px" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-3.gif">
-  <img style="width: 200px; height:200px" src="https://i.pinimg.com/originals/17/52/2f/17522fdf5d21b805a3889d1720c290e5.gif">
-  <img style="width: 200px; height:200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
+  <img style="width: 200px; height:200px" src="https://cdn.dribbble.com/userupload/41943848/file/original-4d5f6449a01563f617d0c873a8fd9a7d.gif">
+  <img style="width: 200px; height:200px" src="https://i.redd.it/ckp5gcuzv7581.gif">
+  <img style="width: 200px; height:200px" src="https://dinopixel.com/preload/1022/gifgif_1666452042.gif">
+  <img style="width: 200px; height:200px" src="https://media0.giphy.com/media/Czne5yIt0hHiw/giphy.gif">
 </div>
 
 <img style="width: 200px; height:200px" align="right" src="https://giffiles.alphacoders.com/424/4244.gif"/>
